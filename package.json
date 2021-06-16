@@ -1,0 +1,25 @@
+{
+    "name": "dislexic-vscode",
+    "displayName": "dislexic",
+    "description": "A high contrast brightly coloured theme for dyslexics with astigmatism.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dislexic",
+                "uiTheme": "vs",
+                "path": "./themes/dislexic-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SpeedyLom/dislexic-vscode.git"
+    }
+}
