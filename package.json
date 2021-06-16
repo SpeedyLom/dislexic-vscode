@@ -2,7 +2,7 @@
     "name": "dislexic-vscode",
     "displayName": "dislexic",
     "description": "A high contrast brightly coloured theme for dyslexics with astigmatism.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },

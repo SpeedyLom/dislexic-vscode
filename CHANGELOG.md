@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 2021-06-16
+## [1.0.0] - 2021-06-16
 ### Added
 - Add extenstion files
 - Add `icon.png`
