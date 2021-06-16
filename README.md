@@ -2,7 +2,7 @@
 
 A high contrast brightly coloured [Visual Studio Code](https://code.visualstudio.com/) theme for dyslexics with astigmatism.
 
-![Theme Screenshot](screenshot_v0_0_1.png)
+![Theme Screenshot](dislexic_v0_0_1.png)
 
 ## Usage
 
