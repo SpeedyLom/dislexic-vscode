@@ -3,7 +3,7 @@
     "displayName": "dislexic",
     "description": "A high contrast brightly coloured theme for dyslexics with astigmatism.",
     "publisher": "SpeedyLom",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },
