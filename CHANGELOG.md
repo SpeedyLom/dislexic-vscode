@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-04-15
+
+### Changed
+- Replace the active selection in the command pallet with orange
+- Replace the terminal cursor with orange
+
+### Removed
+- Italic formatting for comments
+
 ## [1.0.0] - 2021-06-16
 ### Added
 - Add extenstion files
