@@ -8,7 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Added logo and banner information to the package
+- Logo and banner information to the package
+
+### Changed
+- The description of the theme to be more accurate
 
 ## [1.0.2] - 2022-12-17
 
