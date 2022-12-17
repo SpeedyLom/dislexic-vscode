@@ -1,9 +1,9 @@
 {
     "name": "dislexic-vscode",
     "displayName": "dislexic",
-    "description": "A high contrast brightly coloured theme for dyslexics with astigmatism.",
+    "description": "A brightly coloured theme for dyslexics with astigmatism using VS Code.",
     "publisher": "SpeedyLom",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },

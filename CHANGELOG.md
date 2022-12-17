@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Set a light red as the editor background colour
+
 ## [1.0.1] - 2022-04-15
 
 ### Changed
