@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Set a light red as the editor background colour
+- Change the hover colour in the list for better legibility of modified files
 
 ## [1.0.1] - 2022-04-15
 
