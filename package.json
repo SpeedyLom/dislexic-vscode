@@ -2,8 +2,19 @@
     "name": "dislexic-vscode",
     "displayName": "dislexic",
     "description": "A brightly coloured theme for dyslexics with astigmatism using VS Code.",
+    "icon": "icon.png",
     "publisher": "SpeedyLom",
     "version": "1.0.2",
+    "license": "MIT",
+    "author": {
+        "name": "SpeedyLom",
+        "email": "speedylomuk@gmail.com",
+        "url": "https://ko-fi.com/speedylom"
+    },
+    "galleryBanner": {
+        "color": "#F7F3F3",
+        "theme": "dark"
+      },
     "engines": {
         "vscode": "^1.56.0"
     },
