@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] - 2022-12-21
+
+### Added
+- Logo and banner information to the package
+
+### Changed
+- Brighten the interface overall
+- The description of the theme to be more accurate
+- Screenshot in the `README.md`
+- The terminal to be dark
+
 ## [1.0.2] - 2022-12-17
 
 ### Changed
