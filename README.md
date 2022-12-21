@@ -1,8 +1,8 @@
 # dislexic
 
-A brightly coloured [Visual Studio Code](https://code.visualstudio.com/) theme for dyslexics with astigmatism.
+A brightly coloured [Visual Studio Code](https://code.visualstudio.com/) theme set on a light red background for dyslexics (with optional astigmatism).
 
-![Theme Screenshot](dislexic_v0_0_1.png)
+![Theme Screenshot](dislexic-screenshot.png)
 
 ## Usage
 
@@ -30,7 +30,7 @@ Mono](https://www.jetbrains.com/lp/mono/), I personally use the [Nerd Font](http
 A larger font will help when trying to distinguish between letters and reduce some cognitive load.
 
 ```json
-"editor.fontSize": 20
+"editor.fontSize": 18
 ```
 
 ### Line Height
